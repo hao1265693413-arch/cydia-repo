@@ -1,16 +1,14 @@
 Package: com.ahao.desktopicon
 Name: 阿豪的桌面图标
+Version: 1.4.5
+Architecture: iphoneos-arm64
 Description: 通过设置面板为任意应用设置自定义桌面图标；不修改应用本身，支持一键恢复与注销生效。
 Maintainer: AHao
 Author: AHao
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-SileoDepiction: 
-Architecture: iphoneos-arm64
-Version: 1.2.9
-Installed-Size: 604
-Filename: debs/com.ahao.desktopicon_1.2.9_iphoneos-arm64.deb
-Size: 137516
-MD5sum: f8a04e24af1f50ceb9798791517b481f
-SHA256: 6eee675f44574680bfafdb4fd741bea0167fcefb7c4213f3b7c83290748f1983
-
+Installed-Size: 600
+Filename: debs/com.ahao.desktopicon_1.4.5_iphoneos-arm64.deb
+Size: 167316
+MD5sum: a20cd9da753fc8b29a2e5f082820abda
+SHA256: d119209edb1e19060582d5c0f195b33db2a5f3b8ac2998977e3aa49377fa03e3
