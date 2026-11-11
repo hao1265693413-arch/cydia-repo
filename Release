@@ -7,4 +7,5 @@ Architectures: iphoneos-arm64
 Components: main
 Description: 阿豪的越狱插件源
 SHA256:
- 5636647bb62aed19b1179a626d7bce72972053ebba69cf8d7ce77c19b5785d8f 574 Packages
+ 977131f2ef674ff067a38c938b9abf63d32293e888620f8375eb364c7a5dfb07 556 Packages
+ 97c2af583915ab23c54beb86a2d6a4cbe8fdad41a7c3c7f93948e41600eb9dd1 484 Packages.gz
